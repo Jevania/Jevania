@@ -29,5 +29,3 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 <a href="https://github.com/jevania/jevania">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
 </a>
-
-![visitors](https://jevania-visitor-badge.glitch.me/badge?page_id=jevania.jevania)
