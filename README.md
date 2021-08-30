@@ -4,11 +4,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-bc2a8d.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/jevaniadb/)
 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 I am currently enrolled in Del Institute of Technology. I like to learn new things expecially programming. I learn about the C language recently, it's challenging but getting better day by day. I'm still learning by taking courses to learn the Java language apart from the lecture schedule and also try to make a website. Long journey to go!
 
 
-### 🔍 where to find me 
+## 📈 My GitHub Stats
+<a href="https://github.com/jevania/jevania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3" />
+</a>
+<a href="https://github.com/jevania/jevania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
+</a>
+
+
+### keep in touch with me 😄
 <a href="https://www.linkedin.com/in/jevania-datubara/">
   <img align="left" alt="Jevania's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -21,11 +30,3 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jevania.jevania)
 
-
-## 📈 My GitHub Stats
-<a href="https://github.com/jevania/jevania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3" />
-</a>
-<a href="https://github.com/jevania/jevania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
-</a>
