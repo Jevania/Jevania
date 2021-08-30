@@ -1,4 +1,7 @@
-![gihtub jepa](https://user-images.githubusercontent.com/70984049/131283732-48142bc0-35aa-4b61-893b-98cd7d082e59.gif)
+<a href="https://github.com/jevania/jevania">
+  <img align="center" src="https://user-images.githubusercontent.com/70984049/131283732-48142bc0-35aa-4b61-893b-98cd7d082e59.gif" />
+</a>
+
 [![LinkedIn badge](https://img.shields.io/badge/Jevania_Datubara-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jevania-datubara-78b4781b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-bc2a8d.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/jevaniadb/)
 
