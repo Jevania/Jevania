@@ -17,7 +17,7 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
   <img align="left" alt="Jevania's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=jevania.jevania)
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/jevania/jevania">
