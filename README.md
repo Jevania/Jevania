@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-bc2a8d.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/jevaniadb/)
 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
+### hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am currently enrolled in Del Institute of Technology. I like to learn new things expecially programming. I learn about the C language recently, it's challenging but getting better day by day. I'm still learning by taking courses to learn the Java language apart from the lecture schedule and also try to make a website. Long journey to go!
 
 
