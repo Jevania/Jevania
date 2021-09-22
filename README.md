@@ -18,16 +18,16 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 
 
 ### keep in touch with me 😄
-<a href="https://www.linkedin.com/in/jevania-datubara/">
-  <img align="left" alt="Jevania's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jevania-datubara/" target="_blank">
+  <img align="left" alt="Jevania's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
-<a href="https://www.instagram.com/jevaniadb/">
+<a href="https://www.instagram.com/jevaniadb/" target="_blank">
   <img align="left" alt="Jevania's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
 </a>
 <a href="https://api.whatsapp.com/send/?phone=6285269922018&text&app_absent=0">
   <img align="left" alt="Jevania's Whatsapp" width="30px" src="https://user-images.githubusercontent.com/70984049/131291723-1f0c5f7c-d5df-45ae-9077-43b7dfaedf09.png" />
 </a>
-<a href="mailto:jevaddicted@gmail.com">
+<a href="mailto:jevaddicted@gmail.com" target="_blank">
   <img align="left" alt="Jevania's Gmail" width="30px" src="https://user-images.githubusercontent.com/70984049/131291665-9107db2e-7437-4d90-b509-ea63c5eb38c1.png" />
 </a>
 <a href="https://open.spotify.com/user/sunuav5ns5qz9rra1vshgv193?si=b306c52d03584ac0">
