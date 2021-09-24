@@ -1,5 +1,5 @@
 
-![Jevania's Github Gift](https://user-images.githubusercontent.com/70984049/134688772-853eb742-dabd-4433-baaf-9cfe408a6ad8.gif)
+![jepa-gif](https://user-images.githubusercontent.com/70984049/134688772-853eb742-dabd-4433-baaf-9cfe408a6ad8.gif)
 [![LinkedIn badge](https://img.shields.io/badge/Jevania_Datubara-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jevania-datubara-78b4781b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-bc2a8d.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/jevaniadb/)
 
