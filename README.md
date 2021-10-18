@@ -1,8 +1,5 @@
 
 ![jepa-gif](https://user-images.githubusercontent.com/70984049/134688772-853eb742-dabd-4433-baaf-9cfe408a6ad8.gif)
-[![LinkedIn badge](https://img.shields.io/badge/Jevania_Datubara-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jevania-datubara-78b4781b9/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-bc2a8d.svg?logo=Instagram&logoWidth=20)](https://www.instagram.com/jevaniadb/)
-
 
 ### hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am currently enrolled in Del Institute of Technology. I like to learn new things, especially programming. I learn about the C language recently, it's challenging but getting better day by day. I just finished a course for learning Java Language for beginners. I'm still learning by taking courses to learn the Java language apart from the lecture schedule and also try to make a website. Long journey to go!
@@ -18,6 +15,12 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 
 
 ### keep in touch with me 😄
+<a href="https://www.linkedin.com/in/jevania-datubara/">
+  <img align="left" alt="Jevania's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/jevaniadb/">
+  <img align="left" alt="Jevania's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
+</a>
 <a href="https://api.whatsapp.com/send/?phone=6285269922018&text&app_absent=0">
   <img align="left" alt="Jevania's Whatsapp" width="30px" src="https://user-images.githubusercontent.com/70984049/131291723-1f0c5f7c-d5df-45ae-9077-43b7dfaedf09.png" />
 </a>
