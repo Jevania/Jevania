@@ -2,7 +2,7 @@
 ![jepa-gif](https://user-images.githubusercontent.com/70984049/134688772-853eb742-dabd-4433-baaf-9cfe408a6ad8.gif)
 
 ### hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am currently enrolled in Del Institute of Technology. I like to learn new things, especially programming. I learn about the C language recently, it's challenging but getting better day by day. I just finished a course for learning Java Language for beginners. I'm still learning by taking courses to learn the Java language apart from the lecture schedule and also try to make a website. Long journey to go!
+I am currently enrolled in Del Institute of Technology. I like to learn new things, especially programming. I learn about the C language recently, it's challenging but getting better day by day. I just finished a course for learning Java Language for beginners. I'm still learning by taking courses to learn the Java language apart from the lecture schedule. Long journey to go!
 
 
 ## 📈 My GitHub Stats
