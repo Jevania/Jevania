@@ -15,7 +15,7 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 
 
 ### keep in touch with me 😄
-If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch <3
+If you have a project that you wanna get started, think you need my help with something or just fancy saying hey <3, then get in touch.
 
 <a href="https://www.linkedin.com/in/jevania-datubara/">
   <img align="left" alt="Jevania's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
