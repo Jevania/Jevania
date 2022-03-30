@@ -6,11 +6,11 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 
 
 ## 📈 My GitHub Stats
-<a href="https://github.com/jevania/jevania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3" />
+<a href="https://github.com/Jevania/Jevania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3" />
 </a>
 <a href="https://github.com/jevania/jevania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
 </a>
 
 
@@ -18,7 +18,7 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 ```If you have a project that you wanna get started, think you need my help with something or just fancy saying hey <3, then get in touch.```
 
 <a href="https://www.linkedin.com/in/jevania-d-78b4781b9">
-  <img align="left" alt="Jevania's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jevania's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/jevaniadb/">
   <img align="left" alt="Jevania's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
