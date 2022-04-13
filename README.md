@@ -2,7 +2,7 @@
 ![jevania](https://user-images.githubusercontent.com/70984049/151746590-a54d8905-c902-4e11-9c4b-2bdbd576871b.gif)
 
 ### hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am currently enrolled in Del Institute of Technology. I like to learn new things, especially programming. I learn about the C language recently, it's challenging but getting better day by day. I just finished a course for learning Java Language for beginners. I'm still learning by taking courses to learn the Java language apart from the lecture schedule. Long journey to go!
+I am currently enrolled in Del Institute of Technology. I like to learn new things, especially programming. I'm currently an iOS Developer Intern at Apple Developer Academy @ ILB. I learn Java in college recently, and also learn to develop apps on iOS using some frameworks with Swift which are UIKit and SwiftUI. Long journey to go!
 
 
 ## 📈 My GitHub Stats
