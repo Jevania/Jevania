@@ -6,13 +6,14 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 
 
 ## 📈 My GitHub Stats
-<a href="https://github.com/Jevania/Jevania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3" />
-</a>
-<a href="https://github.com/jevania/jevania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
-</a>
-
+<div class="myDiv">
+  <a href="https://github.com/Jevania/Jevania">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3"   />
+  </a>
+  <a href="https://github.com/jevania/jevania">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
+  </a>
+</div>
 
 ### keep in touch with me 😄
 ```If you have a project that you wanna get started, think you need my help with something or just fancy saying hey <3, then get in touch.```
