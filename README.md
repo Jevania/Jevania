@@ -19,13 +19,13 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 ```If you have a project that you wanna get started, think you need my help with something or just fancy saying hey <3, then get in touch.```
 
 <a href="https://www.linkedin.com/in/jevania-jevania-78b4781b9">
-  <img align="left" alt="Jevania's LinkedIn" width="30px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://github.com/Jevania/reactjs-JevaniasPersonalWeb/assets/70984049/d4f60186-d04e-44ae-82a4-0be460c5db60)" />
+  <img align="left" alt="Jevania's Gmail" width="30px" src="https://github.com/Jevania/Jevania/blob/main/img/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/jevaniadb/">
-  <img align="left" alt="Jevania's Instagram" width="30px" src="https://user-images.githubusercontent.com/70984049/131288231-66471d8b-7bed-4fd7-b2eb-519637f05d8c.png" />
+  <img align="left" alt="Jevania's Gmail" width="30px" src="https://github.com/Jevania/Jevania/blob/main/img/instagram.png" />
 </a>
 <a href="mailto:jevaddicted@gmail.com">
-  <img align="left" alt="Jevania's Gmail" width="30px" src="https://user-images.githubusercontent.com/70984049/131291665-9107db2e-7437-4d90-b509-ea63c5eb38c1.png" />
+  <img align="left" alt="Jevania's Gmail" width="30px" src="https://github.com/Jevania/Jevania/blob/main/img/gmail.png" />
 </a>
 
 
