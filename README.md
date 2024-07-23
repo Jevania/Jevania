@@ -28,5 +28,5 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
   <img align="left" alt="Jevania's Gmail" width="30px" src="https://github.com/Jevania/Jevania/blob/main/img/gmail.png" />
 </a>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jevania&label=Profile%20views&color=5E4CEF&style=flat" alt="jevania" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jevania&label=Profile%20views&color=687EFF&style=flat" alt="jevania" /> </p>
 
