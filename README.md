@@ -1,5 +1,5 @@
 
-![jevania](https://user-images.githubusercontent.com/70984049/151746590-a54d8905-c902-4e11-9c4b-2bdbd576871b.gif)
+<img alt="jevania" width="800px" height="365px" src="https://github.com/Jevania/Jevania/blob/main/img/thumbnail_corner.png" />
 
 ### hey there 👋
 I am currently enrolled in Del Institute of Technology. I like to learn new things, especially programming. In addition to taking every informations systems challenge offered during sessions in college, I became an iOS developer intern in my second year at Apple Developer Academy @ IL. I learn to develop apps on iOS using some frameworks with Swift which are UIKit and SwiftUI. Long journey to go!
