@@ -8,10 +8,10 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 ## 📈 My GitHub Stats
 <div class="myDiv">
   <a href="https://github.com/Jevania/Jevania">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jevania&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3"   />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jevania&hide=issues&show_icons=true&title_color=5E4CEF&icon_color=5E4CEF"   />
   </a>
   <a href="https://github.com/jevania/jevania">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevania&layout=compact&title_color=7393B3" alt="Most Used Language" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jevania&layout=compact&title_color=5E4CEF" alt="Most Used Language" />
   </a>
 </div>
 
