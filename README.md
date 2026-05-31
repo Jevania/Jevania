@@ -24,7 +24,7 @@ I am currently enrolled in Del Institute of Technology. I like to learn new thin
 <a href="https://www.instagram.com/jevaniadb/">
   <img align="left" alt="Jevania's Gmail" width="30px" src="https://github.com/Jevania/Jevania/blob/main/img/instagram.png" />
 </a>
-<a href="mailto:jevaddicted@gmail.com">
+<a href="mailto:hallojevania@gmail.com">
   <img align="left" alt="Jevania's Gmail" width="30px" src="https://github.com/Jevania/Jevania/blob/main/img/gmail.png" />
 </a>
 
